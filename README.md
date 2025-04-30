@@ -38,4 +38,4 @@ I work with **FastAPI**, **Django**, **PostgreSQL**, **SQLAlchemy**, and **Teleg
 ---
 
 Reach me at [Telegram](https://t.me/Keleseth)  
-More projects in the repositories above ↑
+More public projects are available in the repositories below ↓
