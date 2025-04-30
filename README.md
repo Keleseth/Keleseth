@@ -23,9 +23,9 @@ I work with **FastAPI**, **Django**, **PostgreSQL**, **SQLAlchemy**, and **Teleg
   Telegram-based fireworks store with CRM integration, admin panel, scheduled newsletters, and order system.  
   [Repository →](https://github.com/Keleseth/telegram-fireworks-service)
 
-- **🍔 Foodgram**  
+- **🍔 Shades of Flavor**  
   Recipe sharing platform with user accounts, favorites, shopping cart, and REST API.  
-  [Repository →](https://github.com/Keleseth/foodgram)
+  [Repository →](https://github.com/Keleseth/Shades-of-Flavor)
 
 - **📊 PEP Parser**  
   Async parser for Python Enhancement Proposals, exporting to CSV, JSON, and SQLite with logging.  
@@ -33,7 +33,7 @@ I work with **FastAPI**, **Django**, **PostgreSQL**, **SQLAlchemy**, and **Teleg
 
 - **🐾 QRKot**  
   Template donation service with project tracking, auto-allocation of funds, and Google Sheets integration.  
-  [Repository →](https://github.com/Keleseth/QRkot_spreadsheets)
+  [Repository →](https://github.com/Keleseth/donation-service-template)
 
 ---
 
