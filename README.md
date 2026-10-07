@@ -1,66 +1,68 @@
-# 👋 Привет! Меня зовут Александр.
+# 👋 Hi! My name is Aleksandr.
 
-Я — Python backend-разработчик. Пишу **чистый, читаемый код**. Постоянно прокачиваюсь: разбираю архитектурные подходы, читаю книги/доки, регулярно осваиваю новые инструменты и применяю лучшие решения на практике.
+I'm a Python backend developer. I write **clean, readable code**. Always leveling up: studying architectural patterns, reading books/docs, regularly picking up new tools and applying the best solutions in practice.
 
 ---
 
-**Основной стек технологий:**
+**Core tech stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
-![unittest](https://img.shields.io/badge/unittest-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-795548.svg?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6B2B.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C7B7.svg?style=for-the-badge)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-### Примеры моих проектов:
+### Examples of my projects:
 
-- **🔐 [Auth System for FastAP](https://github.com/Keleseth/auth-system-fastapi)**
-  Гибкая и расширяемая система аутентификации для FastAPI, построенная по модульной архитектуре.
-  Поддерживает замену ORM, схем, сервисов токенов и хэширования, а также фабрику роутеров, автоматически создающую все основные эндпоинты: регистрацию, вход, обновление и выход.
-  Все usecase-классы оформлены как зависимости FastAPI, что обеспечивает простоту переопределения при тестировании и интеграции.
-  В комплекте — демонстрационное приложение с RBAC и SQLAdmin.
-  Роль: автор и исполнитель проекта.
-
+- **🔐 [Auth System for FastAPI](https://github.com/Keleseth/auth-system-fastapi)**
+  A flexible, extensible authentication system for FastAPI, built with a modular architecture.
+  Supports swapping the ORM, schemas, token services, and hashing, plus a router factory that automatically generates all core endpoints: register, login, refresh, and logout.
+  Every use-case is wired as a FastAPI dependency, making it easy to override for testing and integration.
+  Includes a demo app with RBAC and SQLAdmin.
+  Role: sole author and developer.
 
 - **🎆 [Joker-Fireworks](https://github.com/Keleseth/telegram-fireworks-service)**
-  Telegram-бот по продаже пиротехники.
-  Серверная часть реализована на FastAPI, взаимодействие с ботом — через python-telegram-bot, админка — на SQLAdmin, планировщик — APScheduler.  
-  Роль: тимлид.
+  A Telegram bot for selling fireworks.
+  Backend built with FastAPI, bot built with python-telegram-bot, admin panel via SQLAdmin, scheduler via APScheduler.
+  Role: team lead.
 
 - **🧭 [Tabit](https://github.com/Studio-Yandex-Practicum/Tabit)**
-  Платформа для мониторинга эмоционального состояния сотрудников компаний-арендаторов: отслеживание карьерного роста, метрик благополучия и организация встреч.
-  Backend на FastAPI + SQLAlchemy + PostgreSQL; опросы, отчёты, напоминания.
-  Роль: backend-разработчик.
+  A platform for monitoring employee well-being at tenant companies: career growth tracking, well-being metrics, and meeting scheduling.
+  Backend on FastAPI + SQLAlchemy + PostgreSQL; surveys, reports, reminders.
+  Role: backend developer.
 
-- **🍔 [Shades of Flavor](https://github.com/Keleseth/Shades-of-Flavor)**  
-  Платформа для обмена рецептами: аккаунты пользователей, избранное, подписки на рецепты и авторов, список необходимых для рецепта покупок.
-    
+- **🍔 [Shades of Flavor](https://github.com/Keleseth/Shades-of-Flavor)**
+  A recipe-sharing platform: user accounts, favorites, subscriptions to recipes and authors, and a shopping list generated from a recipe.
 
-- **📊 [PEP Parser](https://github.com/Keleseth/scrapy_parser_pep)**  
-  Асинхронный парсер PEP (Python Enhancement Proposals) с экспортом в CSV, JSON и SQLite, включая логирование.
+- **📊 [PEP Parser](https://github.com/Keleseth/scrapy_parser_pep)**
+  An async parser for PEPs (Python Enhancement Proposals) with export to CSV, JSON, and SQLite, including logging.
 
-- **🐾 [QRKot](https://github.com/Keleseth/donation-service-template)**  
-  Шаблон сервиса пожертвований: учёт проектов, автораспределение средств и интеграция с Google Sheets.  
-
----
-
-Контакты для связи: [Telegram](https://t.me/Keleseth)
+- **🐾 [QRKot](https://github.com/Keleseth/donation-service-template)**
+  A donation-service template: project tracking, automatic fund allocation, and Google Sheets integration.
 
 ---
 
-Больше публичных проектов доступны на странице ниже ↓
+Get in touch: [Telegram](https://t.me/Keleseth)
+
+---
+
+More public projects below ↓
